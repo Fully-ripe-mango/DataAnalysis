@@ -1,0 +1,94 @@
+{
+    "frequency": [
+        "freq/Hz"
+    ],
+    "impedance": [
+        "Re(Z)/Ohm",
+        "-Im(Z)/Ohm",
+        "|Z|/Ohm",
+        "Phase(Z)/deg"
+    ],
+    "time": [
+        "time/s"
+    ],
+    "voltage": [
+        "<Ewe>/V",
+        "|Ewe|/V",
+        "|Ewe h2|/V",
+        "|Ewe h3|/V",
+        "|Ewe h4|/V",
+        "|Ewe h5|/V",
+        "|Ewe h6|/V",
+        "|Ewe h7|/V"
+    ],
+    "current": [
+        "<I>/mA",
+        "|I|/A",
+        "|I h2|/A",
+        "|I h3|/A",
+        "|I h4|/A",
+        "|I h5|/A",
+        "|I h6|/A",
+        "|I h7|/A"
+    ],
+    "capacitance": [
+        "Cs/uF",
+        "Cp/uF"
+    ],
+    "cycle": [
+        "cycle number"
+    ],
+    "range": [
+        "I Range"
+    ],
+    "harmonics": [
+        "THD Ewe/%",
+        "NSD Ewe/%",
+        "NSR Ewe/%",
+        "THD I/%",
+        "NSD I/%",
+        "NSR I/%"
+    ],
+    "admittance": [
+        "Re(Y)/Ohm-1",
+        "Im(Y)/Ohm-1",
+        "|Y|/Ohm-1",
+        "Phase(Y)/deg"
+    ],
+    "conductance": [
+        "Re(C)/nF",
+        "Im(C)/nF",
+        "|C|/nF",
+        "Phase(C)/deg"
+    ],
+    "modulus": [
+        "Re(M)",
+        "Im(M)",
+        "|M|",
+        "Phase(M)/deg"
+    ],
+    "permittivity": [
+        "Re(Permittivity)",
+        "Im(Permittivity)",
+        "|Permittivity|",
+        "Phase(Permittivity)/deg"
+    ],
+    "resistivity": [
+        "Re(Resistivity)/Ohm.cm",
+        "Im(Resistivity)/Ohm.cm",
+        "|Resistivity|/Ohm.cm",
+        "Phase(Resistivity)/deg"
+    ],
+    "conductivity": [
+        "Re(Conductivity)/mS/cm",
+        "Im(Conductivity)/mS/cm",
+        "|Conductivity|/mS/cm",
+        "Phase(Conductivity)/deg"
+    ],
+    "miscellaneous": [
+        "(Q-Qo)/mA.h",
+        "Tan(Delta)",
+        "Loss Angle(Delta)/deg",
+        "dq/mA.h"
+    ]
+}
